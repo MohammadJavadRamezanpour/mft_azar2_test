@@ -23,4 +23,4 @@ elif userInput == 2:
         if search.lower() in contact["name"].lower():
             print(contact["name"], contact["phone"])
 else:
-    print("invalid input")
+    print("invalid inpuT")
